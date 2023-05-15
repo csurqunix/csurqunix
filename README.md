@@ -4,17 +4,14 @@
   <img src="https://github.com/csurqunix/csurqunix/blob/main/C%20Surquin.gif"/>
 </p>
 
-## About Me :
+------------------------------------
 
-###
 <p align="center"><b>
-  Linux Systems Administrator, Consultant, Teacher
+  Linux Systems & Cisco Networks Administrator, Consultant, Teacher
   </b></p>
-
-###
-<p align="center"><b>
-  Cisco Networks Administrator, Consultant, Teacher
-  </b></p>
+  
+###### - I LOVE Linux
+###### - I LOVE teaching and making people more skilled !
    
 ------------------------------------
 
@@ -22,8 +19,6 @@
 
   ###      Operating Systems :    ### 
 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>    :  
-  
   <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
@@ -32,6 +27,8 @@
   <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+  
+  -----------------------------------
 
 ###      Scripting :     ###
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
