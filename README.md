@@ -46,6 +46,8 @@
 ###      Other Skills :     ###
 ![](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
+----------------------------------
+  
 ###      How to Contact Me :     ###
 
 My Linkedin and Protonmail are pro contacts, not the Signal one ;)
