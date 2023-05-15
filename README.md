@@ -10,8 +10,9 @@
   Linux Systems & Cisco Networks Administrator, Consultant, Teacher
   </b></p>
   
-###### - I LOVE Linux
-###### - I LOVE teaching and making people more skilled !
+###### Enthusiastic administrator who LOVES to share his knowledge on everything directly or indirectly related to UNIX systems and the Cisco network environment!
+
+###### Do not hesitate to consult my other repositories, some being used for exercises!
    
 ------------------------------------
 
