@@ -19,13 +19,13 @@
 
   ###      Operating Systems :    ### 
 
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white"/>
-  
+  <img src="Assets/Logo - Red Hat.png"/>
+  <img src="Assets/Logo - Rocky Linux.png"/>
+  <img src="Assets/Logo - CentOS Non officiel.png"/>
+  <img src="Assets/Logo - Fedora.png"/>
+  <img src="Assets/Logo - Ubuntu.png"/>
+  <img src="Assets/Logo - Debian.png"/>
+    
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
   
   -----------------------------------
