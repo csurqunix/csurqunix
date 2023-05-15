@@ -25,8 +25,7 @@
   <img src="Assets/Logo - Fedora.png"/>
   <img src="Assets/Logo - Ubuntu.png"/>
   <img src="Assets/Logo - Debian.png"/>
-    
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
+  <img src="Assets/Logo - Cisco.png"/>
   
   -----------------------------------
 
