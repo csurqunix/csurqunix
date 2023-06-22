@@ -2,19 +2,12 @@
   <img src="https://github.com/csurqunix/csurqunix/blob/main/C%20Surquin.gif"/>
 </p>
 
-------------------------------------
-##
-<p align="center"><b>
-  Linux Systems & Cisco Networks Administrator, Consultant, Teacher
-  </b></p>
-##
+## Linux Systems & Cisco Networks Administrator, Consultant, Teacher ##
 
 ###### Enthusiastic administrator who LOVES to share his knowledge on everything directly or indirectly related to UNIX systems and the Cisco network environment!
 
 ###### Do not hesitate to consult my other repositories, some being used for exercises!
    
-------------------------------------
-
 <DIV align="center">
 
   ###      Operating Systems :    ### 
