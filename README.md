@@ -6,7 +6,7 @@
 
 ###### Enthusiastic administrator who LOVES to share his knowledge on everything directly or indirectly related to UNIX systems and the Cisco network environment!
 
-###### Do not hesitate to consult my other repositories, some being used for exercises!
+###### Do not hesitate to consult my other repositories, some being used for trainings !
    
 <DIV align="center">
 
