@@ -12,15 +12,13 @@
 
   ###      Operating Systems :    ### 
 
-  <img src="Assets/Logo - Red Hat 75.png"/>
-  <img src="Assets/Logo - Rocky Linux 75.png"/>
-  <img src="Assets/Logo - CentOS Non officiel 75.png"/>
-  <img src="Assets/Logo - Fedora 75.png"/>
-  <img src="Assets/Logo - Ubuntu 75.png"/>
-  <img src="Assets/Logo - Debian 75.png"/>
-  <img src="Assets/Logo - Cisco 75.png"/>
-  
-  -----------------------------------
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"/>
 
 ###      Scripting :     ###
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
