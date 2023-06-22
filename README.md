@@ -21,12 +21,12 @@
   ###      Operating Systems :    ### 
 
   <img src="Assets/Logo - Red Hat 75.png"/>
-  <img src="Assets/Logo - Rocky Linux.png"/>
+  <img src="Assets/Logo - Rocky Linux 75.png"/>
   <img src="Assets/Logo - CentOS Non officiel 75.png"/>
   <img src="Assets/Logo - Fedora 75.png"/>
-  <img src="Assets/Logo - Ubuntu.png"/>
+  <img src="Assets/Logo - Ubuntu 75.png"/>
   <img src="Assets/Logo - Debian 75.png"/>
-  <img src="Assets/Logo - Cisco.png"/>
+  <img src="Assets/Logo - Cisco 75.png"/>
   
   -----------------------------------
 
